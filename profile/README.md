@@ -17,11 +17,8 @@ Every flagship repository in this org is designed to answer four questions fast:
 
 ## General
 
-| Dataset  | GitHub                                                                                | Live Search                                                                                                                                                              |
-| -------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | [expired-oneword-domains](https://github.com/UniqueDomains/expired-oneword-domains)   | [Open live search](https://unique.domains/domains/expired?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=hub_open_search)   |
-| Expiring | [expiring-oneword-domains](https://github.com/UniqueDomains/expiring-oneword-domains) | [Open live search](https://unique.domains/domains/expiring?utm_source=github&utm_medium=referral&utm_campaign=repo_expiring_oneword_domains&utm_content=hub_open_search) |
-| All      | [oneword-domains](https://github.com/UniqueDomains/oneword-domains)                   | [Open live search](https://unique.domains/domains?utm_source=github&utm_medium=referral&utm_campaign=repo_oneword_domains&utm_content=hub_open_search)                   |
+| Dataset | GitHub | Live Search |
+| ------- | ------ | ----------- |
 
 ## By TLD
 
