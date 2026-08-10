@@ -38,8 +38,4 @@ The product is designed around saved intent, continuity, and decision speed rath
 - Open the live page when you want the full catalog, saved-intent continuity, and the Radar or Project workflow.
 - Use the tables below to move across the public repo network by general catalog, TLD, or sector.
 
-## 🧭 General
 
-| Dataset                                                                    | Repo domains | App domains | See on App                                                                                                                                                              | Median ask | High-demand under $X | Buy-ready % |
-| -------------------------------------------------------------------------- | ------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------- | ----------- |
-| [Actionable](https://github.com/UniqueDomains/actionnable-oneword-domains) | 1,000        | 1,130,739   | [See on App](https://unique.domains/domains/actionable?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_open_search) | $277.60    | 1,805 under $2,500   | 0%          |
