@@ -38,10 +38,4 @@ The product is designed around saved intent, continuity, and decision speed rath
 - Open the live page when you want the full catalog, saved-intent continuity, and the Radar workflow.
 - Use the tables below to move across the public repo network by general catalog, TLD, or sector.
 
-## 🏷️ By Sector
 
-| Dataset                                                                 | Repo domains | App domains | See on App                                                                                                                                                                  | Median ask | High-demand under $X | Buy-ready % |
-| ----------------------------------------------------------------------- | ------------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------- | ----------- |
-| [Banking](https://github.com/UniqueDomains/banking-oneword-domains)     | 1,000        | 178,380     | [See on App](https://unique.domains/domains/sector/banking?utm_source=github&utm_medium=referral&utm_campaign=repo_banking_oneword_domains&utm_content=top_open_search)     | $393.06    | 109 under $2,500     | 0%          |
-| [Utilities](https://github.com/UniqueDomains/utilities-oneword-domains) | 1,000        | 71,140      | [See on App](https://unique.domains/domains/sector/utilities?utm_source=github&utm_medium=referral&utm_campaign=repo_utilities_oneword_domains&utm_content=top_open_search) | $311.97    | 71 under $2,500      | 0%          |
-| [Insurance](https://github.com/UniqueDomains/insurance-oneword-domains) | 1,000        | 18,411      | [See on App](https://unique.domains/domains/sector/insurance?utm_source=github&utm_medium=referral&utm_campaign=repo_insurance_oneword_domains&utm_content=top_open_search) | $861.03    | 84 under $2,500      | 0%          |
