@@ -8,14 +8,14 @@ Each repository links the page it extracts; every ending Unique Domains tracks i
 
 | Dataset                                                                    | Rows  | Live names  | Page                                                                                                                                                | Median ask |
 | -------------------------------------------------------------------------- | ----- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [All](https://github.com/UniqueDomains/oneword-domains)                    | 1,000 | ~16,500,000 | [Open the page](https://unique.domains/domains?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)            | ~$149.43   |
-| [Expired](https://github.com/UniqueDomains/expired-oneword-domains)        | 1,000 | 11,455      | [Open the page](https://unique.domains/domains/expired?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)    | $777.94    |
+| [All](https://github.com/UniqueDomains/oneword-domains)                    | 1,000 | ~16,700,000 | [Open the page](https://unique.domains/domains?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)            | ~$149.70   |
+| [Expired](https://github.com/UniqueDomains/expired-oneword-domains)        | 1,000 | 11,464      | [Open the page](https://unique.domains/domains/expired?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)    | $777.94    |
 | [Expiring](https://github.com/UniqueDomains/expiring-oneword-domains)      | 1,000 | 49,577      | [Open the page](https://unique.domains/domains/expiring?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)   | $22,576.64 |
 | [Brandable](https://github.com/UniqueDomains/brandable-oneword-domains)    | 1,000 | ~246,000    | [Open the page](https://unique.domains/domains/brandable?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)  | ~$299.85   |
-| [Positive](https://github.com/UniqueDomains/positive-oneword-domains)      | 1,000 | ~5,520,000  | [Open the page](https://unique.domains/domains/positive?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)   | ~$161.54   |
-| [Short](https://github.com/UniqueDomains/short-oneword-domains)            | 1,000 | ~6,830,000  | [Open the page](https://unique.domains/domains/short?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)      | ~$201.99   |
-| [Actionable](https://github.com/UniqueDomains/actionnable-oneword-domains) | 1,000 | ~2,560,000  | [Open the page](https://unique.domains/domains/actionable?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page) | ~$144.99   |
-| [Domain hacks](https://github.com/UniqueDomains/hacks-oneword-domains)     | 1,000 | 1,461       | [Open the page](https://unique.domains/domains/hacks?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)      | $3,498.80  |
+| [Positive](https://github.com/UniqueDomains/positive-oneword-domains)      | 1,000 | ~5,290,000  | [Open the page](https://unique.domains/domains/positive?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)   | ~$186.81   |
+| [Short](https://github.com/UniqueDomains/short-oneword-domains)            | 1,000 | ~6,830,000  | [Open the page](https://unique.domains/domains/short?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)      | ~$222.81   |
+| [Actionable](https://github.com/UniqueDomains/actionnable-oneword-domains) | 1,000 | ~2,590,000  | [Open the page](https://unique.domains/domains/actionable?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page) | ~$153.71   |
+| [Domain hacks](https://github.com/UniqueDomains/hacks-oneword-domains)     | 1,000 | 1,461       | [Open the page](https://unique.domains/domains/hacks?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)      | $3,498.19  |
 
 ## By TLD
 
@@ -24,9 +24,9 @@ Each repository links the page it extracts; every ending Unique Domains tracks i
 | [.COM](https://github.com/UniqueDomains/com-oneword-domains) | 1,000 | 4,890      | [Open the page](https://unique.domains/tld/com?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page) | $28,169.47 |
 | [.AI](https://github.com/UniqueDomains/ai-oneword-domains)   | 1,000 | 19,176     | [Open the page](https://unique.domains/tld/ai?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)  | $88.13     |
 | [.IO](https://github.com/UniqueDomains/io-oneword-domains)   | 1,000 | 22,580     | [Open the page](https://unique.domains/tld/io?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)  | $251.08    |
-| [.APP](https://github.com/UniqueDomains/app-oneword-domains) | 1,000 | 23,208     | [Open the page](https://unique.domains/tld/app?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page) | $46.04     |
+| [.APP](https://github.com/UniqueDomains/app-oneword-domains) | 1,000 | 23,287     | [Open the page](https://unique.domains/tld/app?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page) | $45.70     |
 | [.CO](https://github.com/UniqueDomains/co-oneword-domains)   | 1,000 | 22,930     | [Open the page](https://unique.domains/tld/co?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page)  | $740.71    |
-| [.XYZ](https://github.com/UniqueDomains/xyz-oneword-domains) | 1,000 | 25,645     | [Open the page](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page) | $640.87    |
+| [.XYZ](https://github.com/UniqueDomains/xyz-oneword-domains) | 1,000 | 25,699     | [Open the page](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=open_the_page) | $632.97    |
 
 ## Other datasets
 
